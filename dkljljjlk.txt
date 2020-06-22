@@ -1,0 +1,25 @@
+warning: LF will be replaced by CRLF in apple.txt.
+The file will have its original line endings in your working directory
+[1mdiff --git a/apple.txt b/apple.txt[m
+[1mindex c846dfa..f3fa9d1 100644[m
+[1m--- a/apple.txt[m
+[1m+++ b/apple.txt[m
+[36m@@ -1 +1,5 @@[m
+[31m-appletest[m
+[32m+[m[32mappletes[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32m1t[m
+[1mdiff --git a/good.txt b/good.txt[m
+[1mindex b4c2d76..44e887c 100644[m
+[1m--- a/good.txt[m
+[1m+++ b/good.txt[m
+[36m@@ -1 +1,6 @@[m
+[31m-aaaaakjlasdjfls[m
+[32m+[m[32maaaaakjlasdjfl[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m
+[32m+[m[32ms[m
